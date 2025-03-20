@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com:learn-co-curriculum/js-task-lister-project.git"
   },
-  "keywords": [
+  "keywords": [ 
     "learn",
     "flatiron school",
     "javascript",
@@ -23,6 +23,9 @@
     "url": "https://github.com/learn-co-curriculum/js-task-lister-project/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/js-task-lister-project",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.23.0",
